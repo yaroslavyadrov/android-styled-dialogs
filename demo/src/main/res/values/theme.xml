@@ -21,7 +21,7 @@
 
 	<style name="DialogStyleLight.Custom">
 		<!-- anything can be left out: -->
-		<item name="titleTextColor">@color/dialog_title_text</item>
+		<item name="titleDialogTextColor">@color/dialog_title_text</item>
 		<item name="titleSeparatorColor">@color/dialog_title_separator</item>
 		<item name="messageTextColor">@color/dialog_message_text</item>
 		<item name="buttonTextColor">@color/dialog_button_text</item>
